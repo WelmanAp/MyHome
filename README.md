@@ -1,5 +1,5 @@
 # MyHome
-Halo!Selamat datang di repositories saya.
+Halo! Selamat datang di repositories saya.
 Perkenalkan nama saya Welman Apridius,
 saya adalah sakah satu mahasiswa di perguruan tinggi swasta
 di kota Tangerang, Univesitas Buddhi Dharma.
